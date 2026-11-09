@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="38%" align="center" valign="top">
-  <img src="https://raw.githubusercontent.com/Sufiyan-khan01/Sufiyan-khan01/main/assets/profile-portrait.png" width="100%" alt="Sufiyan Khan portrait"/>
+  <img src="https://raw.githubusercontent.com/Sufiyan-khan01/Sufiyan-khan01/main/profile-portrait.png" width="100%" alt="Sufiyan Khan portrait"/>
   <br/>
   <b>SUFIYAN KHAN</b><br/>
   <code>PYTHON DEVELOPER</code>
@@ -65,7 +65,7 @@
 ## `05 / CONTRIBUTION_ACTIVITY`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sufiyan-khan01&bg_color=050907&color=00E676&line=00E676&point=FFCC00&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
+  <img src="https://ghchart.rshah.org/00E676/Sufiyan-khan01" width="100%" alt="Contribution graph"/>
 </p>
 
 ## `06 / CONTRIBUTION_SNAKE`
