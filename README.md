@@ -8,7 +8,6 @@
 ### 🚀 About Me
 
 - 🎓 Diploma Engineering student at **Anjuman-I-Islam Abdul Razzaq Kalsekar Polytechnic (AIKTC)**
-- 📍 Based in **Thane, India**
 - 💻 Programming in **Java, Python, C and C++**
 
 ---
@@ -43,7 +42,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:sufiyankhan14092007@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sufiyankhan14092007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0B0709?style=for-the-badge&logo=gmail&logoColor=D4AF37" />
   </a>
 </p>
